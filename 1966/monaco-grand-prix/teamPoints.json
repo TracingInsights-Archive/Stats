@@ -1,0 +1,123 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/1966/1/constructorstandings.json",
+    "limit": "30",
+    "offset": "0",
+    "total": "9",
+    "StandingsTable": {
+      "season": "1966",
+      "round": "1",
+      "StandingsLists": [
+        {
+          "season": "1966",
+          "round": "1",
+          "ConstructorStandings": [
+            {
+              "position": "1",
+              "positionText": "1",
+              "points": "16",
+              "wins": "1",
+              "Constructor": {
+                "constructorId": "brm",
+                "url": "http://en.wikipedia.org/wiki/BRM",
+                "name": "BRM",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "2",
+              "positionText": "2",
+              "points": "6",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "ferrari",
+                "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                "name": "Ferrari",
+                "nationality": "Italian"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "cooper-maserati",
+                "url": "http://en.wikipedia.org/wiki/Cooper_Car_Company",
+                "name": "Cooper-Maserati",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "lotus-climax",
+                "url": "http://en.wikipedia.org/wiki/Team_Lotus",
+                "name": "Lotus-Climax",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "brabham-brm",
+                "url": "http://en.wikipedia.org/wiki/Brabham",
+                "name": "Brabham-BRM",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "lotus-brm",
+                "url": "http://en.wikipedia.org/wiki/Team_Lotus",
+                "name": "Lotus-BRM",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "brabham-repco",
+                "url": "http://en.wikipedia.org/wiki/Brabham",
+                "name": "Brabham-Repco",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "brabham-climax",
+                "url": "http://en.wikipedia.org/wiki/Brabham",
+                "name": "Brabham-Climax",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "mclaren-ford",
+                "url": "http://en.wikipedia.org/wiki/Team_McLaren",
+                "name": "McLaren-Ford",
+                "nationality": "British"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

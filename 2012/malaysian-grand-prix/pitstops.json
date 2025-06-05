@@ -1,0 +1,569 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/2012/2/pitstops.json",
+    "limit": "100",
+    "offset": "0",
+    "total": "76",
+    "RaceTable": {
+      "season": "2012",
+      "round": "2",
+      "Races": [
+        {
+          "season": "2012",
+          "round": "2",
+          "url": "https://en.wikipedia.org/wiki/2012_Malaysian_Grand_Prix",
+          "raceName": "Malaysian Grand Prix",
+          "Circuit": {
+            "circuitId": "sepang",
+            "url": "https://en.wikipedia.org/wiki/Sepang_International_Circuit",
+            "circuitName": "Sepang International Circuit",
+            "Location": {
+              "lat": "2.76083",
+              "long": "101.738",
+              "locality": "Kuala Lumpur",
+              "country": "Malaysia"
+            }
+          },
+          "date": "2012-03-25",
+          "time": "08:00:00Z",
+          "PitStops": [
+            {
+              "driverId": "perez",
+              "lap": "1",
+              "stop": "1",
+              "time": "16:05:39",
+              "duration": "25.671"
+            },
+            {
+              "driverId": "bruno_senna",
+              "lap": "1",
+              "stop": "1",
+              "time": "16:06:01",
+              "duration": "31.006"
+            },
+            {
+              "driverId": "resta",
+              "lap": "2",
+              "stop": "1",
+              "time": "16:07:52",
+              "duration": "23.988"
+            },
+            {
+              "driverId": "massa",
+              "lap": "3",
+              "stop": "1",
+              "time": "16:10:03",
+              "duration": "24.034"
+            },
+            {
+              "driverId": "glock",
+              "lap": "3",
+              "stop": "1",
+              "time": "16:10:14",
+              "duration": "25.096"
+            },
+            {
+              "driverId": "pic",
+              "lap": "3",
+              "stop": "1",
+              "time": "16:10:20",
+              "duration": "29.317"
+            },
+            {
+              "driverId": "button",
+              "lap": "4",
+              "stop": "1",
+              "time": "16:12:01",
+              "duration": "24.305"
+            },
+            {
+              "driverId": "alonso",
+              "lap": "4",
+              "stop": "1",
+              "time": "16:12:09",
+              "duration": "24.653"
+            },
+            {
+              "driverId": "hulkenberg",
+              "lap": "4",
+              "stop": "1",
+              "time": "16:12:17",
+              "duration": "23.856"
+            },
+            {
+              "driverId": "ricciardo",
+              "lap": "4",
+              "stop": "1",
+              "time": "16:12:26",
+              "duration": "25.470"
+            },
+            {
+              "driverId": "petrov",
+              "lap": "4",
+              "stop": "1",
+              "time": "16:12:28",
+              "duration": "24.718"
+            },
+            {
+              "driverId": "kovalainen",
+              "lap": "4",
+              "stop": "1",
+              "time": "16:12:30",
+              "duration": "32.670"
+            },
+            {
+              "driverId": "hamilton",
+              "lap": "5",
+              "stop": "1",
+              "time": "16:14:12",
+              "duration": "24.271"
+            },
+            {
+              "driverId": "webber",
+              "lap": "5",
+              "stop": "1",
+              "time": "16:14:20",
+              "duration": "24.569"
+            },
+            {
+              "driverId": "vettel",
+              "lap": "5",
+              "stop": "1",
+              "time": "16:14:27",
+              "duration": "25.658"
+            },
+            {
+              "driverId": "rosberg",
+              "lap": "5",
+              "stop": "1",
+              "time": "16:14:31",
+              "duration": "25.600"
+            },
+            {
+              "driverId": "maldonado",
+              "lap": "5",
+              "stop": "1",
+              "time": "16:14:32",
+              "duration": "25.535"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "5",
+              "stop": "1",
+              "time": "16:14:36",
+              "duration": "27.602"
+            },
+            {
+              "driverId": "kobayashi",
+              "lap": "5",
+              "stop": "1",
+              "time": "16:14:39",
+              "duration": "28.122"
+            },
+            {
+              "driverId": "michael_schumacher",
+              "lap": "5",
+              "stop": "1",
+              "time": "16:14:40",
+              "duration": "24.831"
+            },
+            {
+              "driverId": "bruno_senna",
+              "lap": "7",
+              "stop": "2",
+              "time": "16:20:17",
+              "duration": "26.269"
+            },
+            {
+              "driverId": "button",
+              "lap": "13",
+              "stop": "2",
+              "time": "17:26:27",
+              "duration": "25.922"
+            },
+            {
+              "driverId": "rosberg",
+              "lap": "13",
+              "stop": "2",
+              "time": "17:26:30",
+              "duration": "25.199"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "13",
+              "stop": "2",
+              "time": "17:26:32",
+              "duration": "24.927"
+            },
+            {
+              "driverId": "kobayashi",
+              "lap": "13",
+              "stop": "2",
+              "time": "17:26:34",
+              "duration": "26.255"
+            },
+            {
+              "driverId": "rosa",
+              "lap": "13",
+              "stop": "1",
+              "time": "17:26:36",
+              "duration": "15.684"
+            },
+            {
+              "driverId": "petrov",
+              "lap": "13",
+              "stop": "2",
+              "time": "17:26:37",
+              "duration": "29.359"
+            },
+            {
+              "driverId": "glock",
+              "lap": "13",
+              "stop": "2",
+              "time": "17:26:37",
+              "duration": "25.660"
+            },
+            {
+              "driverId": "bruno_senna",
+              "lap": "13",
+              "stop": "3",
+              "time": "17:26:38",
+              "duration": "24.980"
+            },
+            {
+              "driverId": "hamilton",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:30",
+              "duration": "27.961"
+            },
+            {
+              "driverId": "alonso",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:34",
+              "duration": "22.864"
+            },
+            {
+              "driverId": "webber",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:36",
+              "duration": "26.337"
+            },
+            {
+              "driverId": "massa",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:39",
+              "duration": "24.420"
+            },
+            {
+              "driverId": "resta",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:42",
+              "duration": "22.856"
+            },
+            {
+              "driverId": "maldonado",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:42",
+              "duration": "21.621"
+            },
+            {
+              "driverId": "michael_schumacher",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:43",
+              "duration": "24.094"
+            },
+            {
+              "driverId": "ricciardo",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:45",
+              "duration": "24.539"
+            },
+            {
+              "driverId": "kovalainen",
+              "lap": "14",
+              "stop": "2",
+              "time": "17:28:46",
+              "duration": "25.130"
+            },
+            {
+              "driverId": "perez",
+              "lap": "15",
+              "stop": "2",
+              "time": "17:30:37",
+              "duration": "24.520"
+            },
+            {
+              "driverId": "vettel",
+              "lap": "15",
+              "stop": "2",
+              "time": "17:30:43",
+              "duration": "24.057"
+            },
+            {
+              "driverId": "vergne",
+              "lap": "15",
+              "stop": "1",
+              "time": "17:30:48",
+              "duration": "24.216"
+            },
+            {
+              "driverId": "hulkenberg",
+              "lap": "15",
+              "stop": "2",
+              "time": "17:30:50",
+              "duration": "23.549"
+            },
+            {
+              "driverId": "pic",
+              "lap": "15",
+              "stop": "2",
+              "time": "17:31:03",
+              "duration": "36.542"
+            },
+            {
+              "driverId": "button",
+              "lap": "15",
+              "stop": "3",
+              "time": "17:31:07",
+              "duration": "36.517"
+            },
+            {
+              "driverId": "karthikeyan",
+              "lap": "15",
+              "stop": "1",
+              "time": "17:31:07",
+              "duration": "36.876"
+            },
+            {
+              "driverId": "maldonado",
+              "lap": "15",
+              "stop": "3",
+              "time": "17:31:11",
+              "duration": "23.974"
+            },
+            {
+              "driverId": "rosa",
+              "lap": "16",
+              "stop": "2",
+              "time": "17:33:35",
+              "duration": "38.887"
+            },
+            {
+              "driverId": "kovalainen",
+              "lap": "23",
+              "stop": "3",
+              "time": "17:48:07",
+              "duration": "34.109"
+            },
+            {
+              "driverId": "button",
+              "lap": "24",
+              "stop": "4",
+              "time": "17:50:04",
+              "duration": "23.509"
+            },
+            {
+              "driverId": "ricciardo",
+              "lap": "25",
+              "stop": "3",
+              "time": "17:51:55",
+              "duration": "22.610"
+            },
+            {
+              "driverId": "rosberg",
+              "lap": "26",
+              "stop": "3",
+              "time": "17:53:46",
+              "duration": "23.050"
+            },
+            {
+              "driverId": "massa",
+              "lap": "27",
+              "stop": "3",
+              "time": "17:55:53",
+              "duration": "23.130"
+            },
+            {
+              "driverId": "ricciardo",
+              "lap": "37",
+              "stop": "4",
+              "time": "18:16:06",
+              "duration": "23.648"
+            },
+            {
+              "driverId": "karthikeyan",
+              "lap": "37",
+              "stop": "2",
+              "time": "18:18:02",
+              "duration": "27.700"
+            },
+            {
+              "driverId": "massa",
+              "lap": "38",
+              "stop": "4",
+              "time": "18:18:08",
+              "duration": "26.934"
+            },
+            {
+              "driverId": "kovalainen",
+              "lap": "38",
+              "stop": "4",
+              "time": "18:18:52",
+              "duration": "23.782"
+            },
+            {
+              "driverId": "webber",
+              "lap": "39",
+              "stop": "3",
+              "time": "18:19:05",
+              "duration": "23.195"
+            },
+            {
+              "driverId": "resta",
+              "lap": "39",
+              "stop": "3",
+              "time": "18:19:15",
+              "duration": "22.175"
+            },
+            {
+              "driverId": "bruno_senna",
+              "lap": "39",
+              "stop": "4",
+              "time": "18:19:18",
+              "duration": "23.824"
+            },
+            {
+              "driverId": "michael_schumacher",
+              "lap": "39",
+              "stop": "3",
+              "time": "18:19:33",
+              "duration": "22.163"
+            },
+            {
+              "driverId": "maldonado",
+              "lap": "39",
+              "stop": "4",
+              "time": "18:19:34",
+              "duration": "23.409"
+            },
+            {
+              "driverId": "rosberg",
+              "lap": "39",
+              "stop": "4",
+              "time": "18:19:47",
+              "duration": "23.231"
+            },
+            {
+              "driverId": "button",
+              "lap": "39",
+              "stop": "5",
+              "time": "18:19:49",
+              "duration": "23.477"
+            },
+            {
+              "driverId": "petrov",
+              "lap": "39",
+              "stop": "3",
+              "time": "18:20:00",
+              "duration": "30.335"
+            },
+            {
+              "driverId": "glock",
+              "lap": "39",
+              "stop": "3",
+              "time": "18:20:20",
+              "duration": "25.390"
+            },
+            {
+              "driverId": "alonso",
+              "lap": "40",
+              "stop": "3",
+              "time": "18:20:25",
+              "duration": "22.534"
+            },
+            {
+              "driverId": "pic",
+              "lap": "39",
+              "stop": "3",
+              "time": "18:20:48",
+              "duration": "32.224"
+            },
+            {
+              "driverId": "vettel",
+              "lap": "40",
+              "stop": "3",
+              "time": "18:20:50",
+              "duration": "22.998"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "40",
+              "stop": "3",
+              "time": "18:20:58",
+              "duration": "25.041"
+            },
+            {
+              "driverId": "vergne",
+              "lap": "40",
+              "stop": "2",
+              "time": "18:21:12",
+              "duration": "23.343"
+            },
+            {
+              "driverId": "hulkenberg",
+              "lap": "40",
+              "stop": "3",
+              "time": "18:21:13",
+              "duration": "23.358"
+            },
+            {
+              "driverId": "kobayashi",
+              "lap": "40",
+              "stop": "3",
+              "time": "18:21:24",
+              "duration": "23.662"
+            },
+            {
+              "driverId": "rosa",
+              "lap": "39",
+              "stop": "3",
+              "time": "18:22:06",
+              "duration": "28.483"
+            },
+            {
+              "driverId": "perez",
+              "lap": "41",
+              "stop": "3",
+              "time": "18:22:19",
+              "duration": "24.543"
+            },
+            {
+              "driverId": "hamilton",
+              "lap": "41",
+              "stop": "3",
+              "time": "18:22:31",
+              "duration": "26.338"
+            },
+            {
+              "driverId": "vettel",
+              "lap": "47",
+              "stop": "4",
+              "time": "18:33:40",
+              "duration": "25.884"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

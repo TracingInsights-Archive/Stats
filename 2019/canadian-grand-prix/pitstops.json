@@ -1,0 +1,191 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/2019/7/pitstops.json",
+    "limit": "100",
+    "offset": "0",
+    "total": "22",
+    "RaceTable": {
+      "season": "2019",
+      "round": "7",
+      "Races": [
+        {
+          "season": "2019",
+          "round": "7",
+          "url": "https://en.wikipedia.org/wiki/2019_Canadian_Grand_Prix",
+          "raceName": "Canadian Grand Prix",
+          "Circuit": {
+            "circuitId": "villeneuve",
+            "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
+            "circuitName": "Circuit Gilles Villeneuve",
+            "Location": {
+              "lat": "45.5",
+              "long": "-73.5228",
+              "locality": "Montreal",
+              "country": "Canada"
+            }
+          },
+          "date": "2019-06-09",
+          "time": "18:10:00Z",
+          "PitStops": [
+            {
+              "driverId": "albon",
+              "lap": "1",
+              "stop": "1",
+              "time": "14:14:33",
+              "duration": "37.950"
+            },
+            {
+              "driverId": "sainz",
+              "lap": "3",
+              "stop": "1",
+              "time": "14:17:05",
+              "duration": "24.727"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "6",
+              "stop": "1",
+              "time": "14:21:09",
+              "duration": "25.342"
+            },
+            {
+              "driverId": "gasly",
+              "lap": "7",
+              "stop": "1",
+              "time": "14:22:11",
+              "duration": "23.485"
+            },
+            {
+              "driverId": "ricciardo",
+              "lap": "8",
+              "stop": "1",
+              "time": "14:23:27",
+              "duration": "23.927"
+            },
+            {
+              "driverId": "kubica",
+              "lap": "8",
+              "stop": "1",
+              "time": "14:24:00",
+              "duration": "25.210"
+            },
+            {
+              "driverId": "russell",
+              "lap": "9",
+              "stop": "1",
+              "time": "14:25:14",
+              "duration": "23.686"
+            },
+            {
+              "driverId": "perez",
+              "lap": "11",
+              "stop": "1",
+              "time": "14:27:40",
+              "duration": "24.076"
+            },
+            {
+              "driverId": "kvyat",
+              "lap": "12",
+              "stop": "1",
+              "time": "14:28:56",
+              "duration": "23.825"
+            },
+            {
+              "driverId": "hulkenberg",
+              "lap": "16",
+              "stop": "1",
+              "time": "14:33:51",
+              "duration": "24.030"
+            },
+            {
+              "driverId": "vettel",
+              "lap": "26",
+              "stop": "1",
+              "time": "14:46:21",
+              "duration": "23.782"
+            },
+            {
+              "driverId": "hamilton",
+              "lap": "28",
+              "stop": "1",
+              "time": "14:48:57",
+              "duration": "23.662"
+            },
+            {
+              "driverId": "bottas",
+              "lap": "30",
+              "stop": "1",
+              "time": "14:51:51",
+              "duration": "23.994"
+            },
+            {
+              "driverId": "leclerc",
+              "lap": "33",
+              "stop": "1",
+              "time": "14:55:25",
+              "duration": "23.732"
+            },
+            {
+              "driverId": "giovinazzi",
+              "lap": "33",
+              "stop": "1",
+              "time": "14:56:30",
+              "duration": "23.884"
+            },
+            {
+              "driverId": "grosjean",
+              "lap": "34",
+              "stop": "1",
+              "time": "14:57:56",
+              "duration": "24.071"
+            },
+            {
+              "driverId": "kubica",
+              "lap": "38",
+              "stop": "2",
+              "time": "15:04:19",
+              "duration": "23.119"
+            },
+            {
+              "driverId": "kevin_magnussen",
+              "lap": "39",
+              "stop": "1",
+              "time": "15:04:54",
+              "duration": "24.381"
+            },
+            {
+              "driverId": "stroll",
+              "lap": "45",
+              "stop": "1",
+              "time": "15:11:32",
+              "duration": "23.727"
+            },
+            {
+              "driverId": "max_verstappen",
+              "lap": "48",
+              "stop": "1",
+              "time": "15:14:55",
+              "duration": "23.426"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "58",
+              "stop": "2",
+              "time": "15:28:58",
+              "duration": "24.666"
+            },
+            {
+              "driverId": "bottas",
+              "lap": "67",
+              "stop": "2",
+              "time": "15:38:52",
+              "duration": "23.456"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

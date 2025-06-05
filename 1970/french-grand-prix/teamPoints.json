@@ -1,0 +1,139 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/1970/6/constructorstandings.json",
+    "limit": "30",
+    "offset": "0",
+    "total": "10",
+    "StandingsTable": {
+      "season": "1970",
+      "round": "6",
+      "StandingsLists": [
+        {
+          "season": "1970",
+          "round": "6",
+          "ConstructorStandings": [
+            {
+              "position": "1",
+              "positionText": "1",
+              "points": "37",
+              "wins": "1",
+              "Constructor": {
+                "constructorId": "march",
+                "url": "http://en.wikipedia.org/wiki/March_Engineering",
+                "name": "March",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "2",
+              "positionText": "2",
+              "points": "35",
+              "wins": "3",
+              "Constructor": {
+                "constructorId": "team_lotus",
+                "url": "http://en.wikipedia.org/wiki/Team_Lotus",
+                "name": "Team Lotus",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "3",
+              "positionText": "3",
+              "points": "21",
+              "wins": "1",
+              "Constructor": {
+                "constructorId": "brabham",
+                "url": "http://en.wikipedia.org/wiki/Brabham",
+                "name": "Brabham",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "4",
+              "positionText": "4",
+              "points": "20",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "mclaren-ford",
+                "url": "http://en.wikipedia.org/wiki/Team_McLaren",
+                "name": "McLaren-Ford",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "5",
+              "positionText": "5",
+              "points": "16",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "matra",
+                "url": "http://en.wikipedia.org/wiki/Matra",
+                "name": "Matra",
+                "nationality": "French"
+              }
+            },
+            {
+              "position": "6",
+              "positionText": "6",
+              "points": "10",
+              "wins": "1",
+              "Constructor": {
+                "constructorId": "brm",
+                "url": "http://en.wikipedia.org/wiki/BRM",
+                "name": "BRM",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "7",
+              "positionText": "7",
+              "points": "10",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "ferrari",
+                "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                "name": "Ferrari",
+                "nationality": "Italian"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "tomaso",
+                "url": "http://en.wikipedia.org/wiki/De_Tomaso",
+                "name": "De Tomaso",
+                "nationality": "Italian"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "mclaren-alfa_romeo",
+                "url": "http://en.wikipedia.org/wiki/McLaren_(racing)",
+                "name": "McLaren-Alfa Romeo",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "bellasi",
+                "url": "http://en.wikipedia.org/wiki/Bellasi",
+                "name": "Bellasi",
+                "nationality": "Swiss"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/1969/1/constructorstandings.json",
+    "limit": "30",
+    "offset": "0",
+    "total": "7",
+    "StandingsTable": {
+      "season": "1969",
+      "round": "1",
+      "StandingsLists": [
+        {
+          "season": "1969",
+          "round": "1",
+          "ConstructorStandings": [
+            {
+              "position": "1",
+              "positionText": "1",
+              "points": "10",
+              "wins": "1",
+              "Constructor": {
+                "constructorId": "matra-ford",
+                "url": "http://en.wikipedia.org/wiki/Matra",
+                "name": "Matra-Ford",
+                "nationality": "French"
+              }
+            },
+            {
+              "position": "2",
+              "positionText": "2",
+              "points": "9",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "lotus-ford",
+                "url": "http://en.wikipedia.org/wiki/Team_Lotus",
+                "name": "Lotus-Ford",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "3",
+              "positionText": "3",
+              "points": "6",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "mclaren-ford",
+                "url": "http://en.wikipedia.org/wiki/Team_McLaren",
+                "name": "McLaren-Ford",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "brm",
+                "url": "http://en.wikipedia.org/wiki/BRM",
+                "name": "BRM",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "brabham-repco",
+                "url": "http://en.wikipedia.org/wiki/Brabham",
+                "name": "Brabham-Repco",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "ferrari",
+                "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                "name": "Ferrari",
+                "nationality": "Italian"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "brabham-ford",
+                "url": "http://en.wikipedia.org/wiki/Brabham",
+                "name": "Brabham-Ford",
+                "nationality": "British"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

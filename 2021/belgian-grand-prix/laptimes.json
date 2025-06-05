@@ -1,0 +1,142 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/2021/12/laps.json",
+    "limit": "100",
+    "offset": "0",
+    "total": "20",
+    "RaceTable": {
+      "season": "2021",
+      "round": "12",
+      "Races": [
+        {
+          "season": "2021",
+          "round": "12",
+          "url": "https://en.wikipedia.org/wiki/2021_Belgian_Grand_Prix",
+          "raceName": "Belgian Grand Prix",
+          "Circuit": {
+            "circuitId": "spa",
+            "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+            "circuitName": "Circuit de Spa-Francorchamps",
+            "Location": {
+              "lat": "50.4372",
+              "long": "5.97139",
+              "locality": "Spa",
+              "country": "Belgium"
+            }
+          },
+          "date": "2021-08-29",
+          "time": "13:00:00Z",
+          "Laps": [
+            {
+              "number": "1",
+              "Timings": [
+                {
+                  "driverId": "max_verstappen",
+                  "position": "1",
+                  "time": "3:27.071"
+                },
+                {
+                  "driverId": "russell",
+                  "position": "2",
+                  "time": "3:29.066"
+                },
+                {
+                  "driverId": "hamilton",
+                  "position": "3",
+                  "time": "3:29.672"
+                },
+                {
+                  "driverId": "ricciardo",
+                  "position": "4",
+                  "time": "3:31.567"
+                },
+                {
+                  "driverId": "vettel",
+                  "position": "5",
+                  "time": "3:34.550"
+                },
+                {
+                  "driverId": "gasly",
+                  "position": "6",
+                  "time": "3:37.248"
+                },
+                {
+                  "driverId": "ocon",
+                  "position": "7",
+                  "time": "3:38.650"
+                },
+                {
+                  "driverId": "leclerc",
+                  "position": "8",
+                  "time": "3:39.679"
+                },
+                {
+                  "driverId": "latifi",
+                  "position": "9",
+                  "time": "3:42.556"
+                },
+                {
+                  "driverId": "sainz",
+                  "position": "10",
+                  "time": "3:43.237"
+                },
+                {
+                  "driverId": "alonso",
+                  "position": "11",
+                  "time": "3:47.661"
+                },
+                {
+                  "driverId": "bottas",
+                  "position": "12",
+                  "time": "3:49.485"
+                },
+                {
+                  "driverId": "giovinazzi",
+                  "position": "13",
+                  "time": "3:51.234"
+                },
+                {
+                  "driverId": "norris",
+                  "position": "14",
+                  "time": "3:54.181"
+                },
+                {
+                  "driverId": "tsunoda",
+                  "position": "15",
+                  "time": "3:55.400"
+                },
+                {
+                  "driverId": "mick_schumacher",
+                  "position": "16",
+                  "time": "3:56.578"
+                },
+                {
+                  "driverId": "mazepin",
+                  "position": "17",
+                  "time": "3:59.064"
+                },
+                {
+                  "driverId": "stroll",
+                  "position": "18",
+                  "time": "4:01.179"
+                },
+                {
+                  "driverId": "raikkonen",
+                  "position": "19",
+                  "time": "4:03.125"
+                },
+                {
+                  "driverId": "perez",
+                  "position": "20",
+                  "time": "4:05.276"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

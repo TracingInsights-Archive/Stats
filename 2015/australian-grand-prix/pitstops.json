@@ -1,0 +1,156 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/2015/1/pitstops.json",
+    "limit": "100",
+    "offset": "0",
+    "total": "17",
+    "RaceTable": {
+      "season": "2015",
+      "round": "1",
+      "Races": [
+        {
+          "season": "2015",
+          "round": "1",
+          "url": "https://en.wikipedia.org/wiki/2015_Australian_Grand_Prix",
+          "raceName": "Australian Grand Prix",
+          "Circuit": {
+            "circuitId": "albert_park",
+            "url": "https://en.wikipedia.org/wiki/Albert_Park_Circuit",
+            "circuitName": "Albert Park Grand Prix Circuit",
+            "Location": {
+              "lat": "-37.8497",
+              "long": "144.968",
+              "locality": "Melbourne",
+              "country": "Australia"
+            }
+          },
+          "date": "2015-03-15",
+          "time": "05:00:00Z",
+          "PitStops": [
+            {
+              "driverId": "ericsson",
+              "lap": "1",
+              "stop": "1",
+              "time": "16:05:59",
+              "duration": "22.681"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "16",
+              "stop": "1",
+              "time": "16:31:07",
+              "duration": "27.465"
+            },
+            {
+              "driverId": "massa",
+              "lap": "21",
+              "stop": "1",
+              "time": "16:38:38",
+              "duration": "22.062"
+            },
+            {
+              "driverId": "hulkenberg",
+              "lap": "21",
+              "stop": "1",
+              "time": "16:39:11",
+              "duration": "22.137"
+            },
+            {
+              "driverId": "ricciardo",
+              "lap": "23",
+              "stop": "1",
+              "time": "16:42:09",
+              "duration": "22.535"
+            },
+            {
+              "driverId": "vettel",
+              "lap": "24",
+              "stop": "1",
+              "time": "16:43:16",
+              "duration": "22.694"
+            },
+            {
+              "driverId": "sainz",
+              "lap": "24",
+              "stop": "1",
+              "time": "16:43:48",
+              "duration": "55.789"
+            },
+            {
+              "driverId": "hamilton",
+              "lap": "25",
+              "stop": "1",
+              "time": "16:44:32",
+              "duration": "22.295"
+            },
+            {
+              "driverId": "nasr",
+              "lap": "25",
+              "stop": "1",
+              "time": "16:45:12",
+              "duration": "22.933"
+            },
+            {
+              "driverId": "rosberg",
+              "lap": "26",
+              "stop": "1",
+              "time": "16:46:11",
+              "duration": "22.105"
+            },
+            {
+              "driverId": "ericsson",
+              "lap": "26",
+              "stop": "2",
+              "time": "16:47:15",
+              "duration": "23.254"
+            },
+            {
+              "driverId": "button",
+              "lap": "27",
+              "stop": "1",
+              "time": "16:49:15",
+              "duration": "23.353"
+            },
+            {
+              "driverId": "max_verstappen",
+              "lap": "32",
+              "stop": "1",
+              "time": "16:56:30",
+              "duration": "23.532"
+            },
+            {
+              "driverId": "perez",
+              "lap": "38",
+              "stop": "1",
+              "time": "17:06:52",
+              "duration": "26.009"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "40",
+              "stop": "2",
+              "time": "17:08:30",
+              "duration": "22.405"
+            },
+            {
+              "driverId": "ericsson",
+              "lap": "43",
+              "stop": "3",
+              "time": "17:14:28",
+              "duration": "22.353"
+            },
+            {
+              "driverId": "hulkenberg",
+              "lap": "44",
+              "stop": "2",
+              "time": "17:15:43",
+              "duration": "21.612"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

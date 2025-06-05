@@ -1,0 +1,254 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/2017/3/pitstops.json",
+    "limit": "100",
+    "offset": "0",
+    "total": "31",
+    "RaceTable": {
+      "season": "2017",
+      "round": "3",
+      "Races": [
+        {
+          "season": "2017",
+          "round": "3",
+          "url": "https://en.wikipedia.org/wiki/2017_Bahrain_Grand_Prix",
+          "raceName": "Bahrain Grand Prix",
+          "Circuit": {
+            "circuitId": "bahrain",
+            "url": "https://en.wikipedia.org/wiki/Bahrain_International_Circuit",
+            "circuitName": "Bahrain International Circuit",
+            "Location": {
+              "lat": "26.0325",
+              "long": "50.5106",
+              "locality": "Sakhir",
+              "country": "Bahrain"
+            }
+          },
+          "date": "2017-04-16",
+          "time": "15:00:00Z",
+          "PitStops": [
+            {
+              "driverId": "stroll",
+              "lap": "8",
+              "stop": "1",
+              "time": "18:16:59",
+              "duration": "24.915"
+            },
+            {
+              "driverId": "vettel",
+              "lap": "10",
+              "stop": "1",
+              "time": "18:19:52",
+              "duration": "24.702"
+            },
+            {
+              "driverId": "max_verstappen",
+              "lap": "11",
+              "stop": "1",
+              "time": "18:21:30",
+              "duration": "25.174"
+            },
+            {
+              "driverId": "ocon",
+              "lap": "11",
+              "stop": "1",
+              "time": "18:21:47",
+              "duration": "24.664"
+            },
+            {
+              "driverId": "wehrlein",
+              "lap": "11",
+              "stop": "1",
+              "time": "18:21:59",
+              "duration": "26.542"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "12",
+              "stop": "1",
+              "time": "18:23:10",
+              "duration": "26.430"
+            },
+            {
+              "driverId": "grosjean",
+              "lap": "12",
+              "stop": "1",
+              "time": "18:23:23",
+              "duration": "25.075"
+            },
+            {
+              "driverId": "sainz",
+              "lap": "12",
+              "stop": "1",
+              "time": "18:23:26",
+              "duration": "25.001"
+            },
+            {
+              "driverId": "bottas",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:24:52",
+              "duration": "28.368"
+            },
+            {
+              "driverId": "hamilton",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:24:59",
+              "duration": "30.687"
+            },
+            {
+              "driverId": "ricciardo",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:24:59",
+              "duration": "25.312"
+            },
+            {
+              "driverId": "massa",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:25:06",
+              "duration": "25.704"
+            },
+            {
+              "driverId": "hulkenberg",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:25:13",
+              "duration": "26.634"
+            },
+            {
+              "driverId": "perez",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:25:24",
+              "duration": "24.332"
+            },
+            {
+              "driverId": "jolyon_palmer",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:25:31",
+              "duration": "27.466"
+            },
+            {
+              "driverId": "alonso",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:25:31",
+              "duration": "24.922"
+            },
+            {
+              "driverId": "kvyat",
+              "lap": "13",
+              "stop": "1",
+              "time": "18:25:35",
+              "duration": "25.204"
+            },
+            {
+              "driverId": "bottas",
+              "lap": "30",
+              "stop": "2",
+              "time": "18:54:49",
+              "duration": "24.540"
+            },
+            {
+              "driverId": "grosjean",
+              "lap": "31",
+              "stop": "2",
+              "time": "18:56:52",
+              "duration": "24.965"
+            },
+            {
+              "driverId": "vettel",
+              "lap": "33",
+              "stop": "2",
+              "time": "18:59:27",
+              "duration": "24.314"
+            },
+            {
+              "driverId": "ericsson",
+              "lap": "33",
+              "stop": "1",
+              "time": "19:00:33",
+              "duration": "25.576"
+            },
+            {
+              "driverId": "perez",
+              "lap": "36",
+              "stop": "2",
+              "time": "19:04:49",
+              "duration": "24.630"
+            },
+            {
+              "driverId": "hulkenberg",
+              "lap": "36",
+              "stop": "2",
+              "time": "19:04:58",
+              "duration": "25.135"
+            },
+            {
+              "driverId": "alonso",
+              "lap": "36",
+              "stop": "2",
+              "time": "19:05:15",
+              "duration": "24.723"
+            },
+            {
+              "driverId": "raikkonen",
+              "lap": "37",
+              "stop": "2",
+              "time": "19:06:10",
+              "duration": "25.856"
+            },
+            {
+              "driverId": "massa",
+              "lap": "37",
+              "stop": "2",
+              "time": "19:06:22",
+              "duration": "24.240"
+            },
+            {
+              "driverId": "ocon",
+              "lap": "37",
+              "stop": "2",
+              "time": "19:06:38",
+              "duration": "24.505"
+            },
+            {
+              "driverId": "jolyon_palmer",
+              "lap": "37",
+              "stop": "2",
+              "time": "19:06:55",
+              "duration": "26.420"
+            },
+            {
+              "driverId": "ricciardo",
+              "lap": "39",
+              "stop": "2",
+              "time": "19:09:27",
+              "duration": "25.200"
+            },
+            {
+              "driverId": "hamilton",
+              "lap": "41",
+              "stop": "2",
+              "time": "19:12:14",
+              "duration": "30.682"
+            },
+            {
+              "driverId": "kvyat",
+              "lap": "41",
+              "stop": "2",
+              "time": "19:13:18",
+              "duration": "25.246"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

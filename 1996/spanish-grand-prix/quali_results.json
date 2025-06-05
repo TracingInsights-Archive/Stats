@@ -1,0 +1,421 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/1996/7/qualifying.json",
+    "limit": "30",
+    "offset": "0",
+    "total": "20",
+    "RaceTable": {
+      "season": "1996",
+      "round": "7",
+      "Races": [
+        {
+          "season": "1996",
+          "round": "7",
+          "url": "https://en.wikipedia.org/wiki/1996_Spanish_Grand_Prix",
+          "raceName": "Spanish Grand Prix",
+          "Circuit": {
+            "circuitId": "catalunya",
+            "url": "https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya",
+            "circuitName": "Circuit de Barcelona-Catalunya",
+            "Location": {
+              "lat": "41.57",
+              "long": "2.26111",
+              "locality": "Montmel\u00f3",
+              "country": "Spain"
+            }
+          },
+          "date": "1996-06-02",
+          "QualifyingResults": [
+            {
+              "number": "5",
+              "position": "1",
+              "Driver": {
+                "driverId": "damon_hill",
+                "url": "http://en.wikipedia.org/wiki/Damon_Hill",
+                "givenName": "Damon",
+                "familyName": "Hill",
+                "dateOfBirth": "1960-09-17",
+                "nationality": "British"
+              },
+              "Constructor": {
+                "constructorId": "williams",
+                "url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering",
+                "name": "Williams",
+                "nationality": "British"
+              },
+              "Q1": "1:20.650"
+            },
+            {
+              "number": "6",
+              "position": "2",
+              "Driver": {
+                "driverId": "villeneuve",
+                "code": "VIL",
+                "url": "http://en.wikipedia.org/wiki/Jacques_Villeneuve",
+                "givenName": "Jacques",
+                "familyName": "Villeneuve",
+                "dateOfBirth": "1971-04-09",
+                "nationality": "Canadian"
+              },
+              "Constructor": {
+                "constructorId": "williams",
+                "url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering",
+                "name": "Williams",
+                "nationality": "British"
+              },
+              "Q1": "1:21.084"
+            },
+            {
+              "number": "1",
+              "position": "3",
+              "Driver": {
+                "driverId": "michael_schumacher",
+                "code": "MSC",
+                "url": "http://en.wikipedia.org/wiki/Michael_Schumacher",
+                "givenName": "Michael",
+                "familyName": "Schumacher",
+                "dateOfBirth": "1969-01-03",
+                "nationality": "German"
+              },
+              "Constructor": {
+                "constructorId": "ferrari",
+                "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                "name": "Ferrari",
+                "nationality": "Italian"
+              },
+              "Q1": "1:21.587"
+            },
+            {
+              "number": "3",
+              "position": "4",
+              "Driver": {
+                "driverId": "alesi",
+                "url": "http://en.wikipedia.org/wiki/Jean_Alesi",
+                "givenName": "Jean",
+                "familyName": "Alesi",
+                "dateOfBirth": "1964-06-11",
+                "nationality": "French"
+              },
+              "Constructor": {
+                "constructorId": "benetton",
+                "url": "http://en.wikipedia.org/wiki/Benetton_Formula",
+                "name": "Benetton",
+                "nationality": "Italian"
+              },
+              "Q1": "1:22.061"
+            },
+            {
+              "number": "4",
+              "position": "5",
+              "Driver": {
+                "driverId": "berger",
+                "url": "http://en.wikipedia.org/wiki/Gerhard_Berger",
+                "givenName": "Gerhard",
+                "familyName": "Berger",
+                "dateOfBirth": "1959-08-27",
+                "nationality": "Austrian"
+              },
+              "Constructor": {
+                "constructorId": "benetton",
+                "url": "http://en.wikipedia.org/wiki/Benetton_Formula",
+                "name": "Benetton",
+                "nationality": "Italian"
+              },
+              "Q1": "1:22.125"
+            },
+            {
+              "number": "2",
+              "position": "6",
+              "Driver": {
+                "driverId": "irvine",
+                "url": "http://en.wikipedia.org/wiki/Eddie_Irvine",
+                "givenName": "Eddie",
+                "familyName": "Irvine",
+                "dateOfBirth": "1965-11-10",
+                "nationality": "British"
+              },
+              "Constructor": {
+                "constructorId": "ferrari",
+                "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                "name": "Ferrari",
+                "nationality": "Italian"
+              },
+              "Q1": "1:22.333"
+            },
+            {
+              "number": "11",
+              "position": "7",
+              "Driver": {
+                "driverId": "barrichello",
+                "code": "BAR",
+                "url": "http://en.wikipedia.org/wiki/Rubens_Barrichello",
+                "givenName": "Rubens",
+                "familyName": "Barrichello",
+                "dateOfBirth": "1972-05-23",
+                "nationality": "Brazilian"
+              },
+              "Constructor": {
+                "constructorId": "jordan",
+                "url": "http://en.wikipedia.org/wiki/Jordan_Grand_Prix",
+                "name": "Jordan",
+                "nationality": "Irish"
+              },
+              "Q1": "1:22.379"
+            },
+            {
+              "number": "9",
+              "position": "8",
+              "Driver": {
+                "driverId": "panis",
+                "url": "http://en.wikipedia.org/wiki/Olivier_Panis",
+                "givenName": "Olivier",
+                "familyName": "Panis",
+                "dateOfBirth": "1966-09-02",
+                "nationality": "French"
+              },
+              "Constructor": {
+                "constructorId": "ligier",
+                "url": "http://en.wikipedia.org/wiki/Ligier",
+                "name": "Ligier",
+                "nationality": "French"
+              },
+              "Q1": "1:22.685"
+            },
+            {
+              "number": "14",
+              "position": "9",
+              "Driver": {
+                "driverId": "herbert",
+                "url": "http://en.wikipedia.org/wiki/Johnny_Herbert",
+                "givenName": "Johnny",
+                "familyName": "Herbert",
+                "dateOfBirth": "1964-06-25",
+                "nationality": "British"
+              },
+              "Constructor": {
+                "constructorId": "sauber",
+                "url": "http://en.wikipedia.org/wiki/Sauber_Motorsport",
+                "name": "Sauber",
+                "nationality": "Swiss"
+              },
+              "Q1": "1:23.027"
+            },
+            {
+              "number": "7",
+              "position": "10",
+              "Driver": {
+                "driverId": "hakkinen",
+                "url": "http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
+                "givenName": "Mika",
+                "familyName": "H\u00e4kkinen",
+                "dateOfBirth": "1968-09-28",
+                "nationality": "Finnish"
+              },
+              "Constructor": {
+                "constructorId": "mclaren",
+                "url": "http://en.wikipedia.org/wiki/McLaren",
+                "name": "McLaren",
+                "nationality": "British"
+              },
+              "Q1": "1:23.070"
+            },
+            {
+              "number": "15",
+              "position": "11",
+              "Driver": {
+                "driverId": "frentzen",
+                "url": "http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen",
+                "givenName": "Heinz-Harald",
+                "familyName": "Frentzen",
+                "dateOfBirth": "1967-05-18",
+                "nationality": "German"
+              },
+              "Constructor": {
+                "constructorId": "sauber",
+                "url": "http://en.wikipedia.org/wiki/Sauber_Motorsport",
+                "name": "Sauber",
+                "nationality": "Swiss"
+              },
+              "Q1": "1:23.195"
+            },
+            {
+              "number": "19",
+              "position": "12",
+              "Driver": {
+                "driverId": "salo",
+                "url": "http://en.wikipedia.org/wiki/Mika_Salo",
+                "givenName": "Mika",
+                "familyName": "Salo",
+                "dateOfBirth": "1966-11-30",
+                "nationality": "Finnish"
+              },
+              "Constructor": {
+                "constructorId": "tyrrell",
+                "url": "http://en.wikipedia.org/wiki/Tyrrell_Racing",
+                "name": "Tyrrell",
+                "nationality": "British"
+              },
+              "Q1": "1:23.224"
+            },
+            {
+              "number": "17",
+              "position": "13",
+              "Driver": {
+                "driverId": "verstappen",
+                "url": "http://en.wikipedia.org/wiki/Jos_Verstappen",
+                "givenName": "Jos",
+                "familyName": "Verstappen",
+                "dateOfBirth": "1972-03-04",
+                "nationality": "Dutch"
+              },
+              "Constructor": {
+                "constructorId": "footwork",
+                "url": "http://en.wikipedia.org/wiki/Footwork_Arrows",
+                "name": "Footwork",
+                "nationality": "British"
+              },
+              "Q1": "1:23.371"
+            },
+            {
+              "number": "8",
+              "position": "14",
+              "Driver": {
+                "driverId": "coulthard",
+                "code": "COU",
+                "url": "http://en.wikipedia.org/wiki/David_Coulthard",
+                "givenName": "David",
+                "familyName": "Coulthard",
+                "dateOfBirth": "1971-03-27",
+                "nationality": "British"
+              },
+              "Constructor": {
+                "constructorId": "mclaren",
+                "url": "http://en.wikipedia.org/wiki/McLaren",
+                "name": "McLaren",
+                "nationality": "British"
+              },
+              "Q1": "1:23.416"
+            },
+            {
+              "number": "12",
+              "position": "15",
+              "Driver": {
+                "driverId": "brundle",
+                "url": "http://en.wikipedia.org/wiki/Martin_Brundle",
+                "givenName": "Martin",
+                "familyName": "Brundle",
+                "dateOfBirth": "1959-06-01",
+                "nationality": "British"
+              },
+              "Constructor": {
+                "constructorId": "jordan",
+                "url": "http://en.wikipedia.org/wiki/Jordan_Grand_Prix",
+                "name": "Jordan",
+                "nationality": "Irish"
+              },
+              "Q1": "1:23.438"
+            },
+            {
+              "number": "18",
+              "position": "16",
+              "Driver": {
+                "driverId": "katayama",
+                "url": "http://en.wikipedia.org/wiki/Ukyo_Katayama",
+                "givenName": "Ukyo",
+                "familyName": "Katayama",
+                "dateOfBirth": "1963-05-29",
+                "nationality": "Japanese"
+              },
+              "Constructor": {
+                "constructorId": "tyrrell",
+                "url": "http://en.wikipedia.org/wiki/Tyrrell_Racing",
+                "name": "Tyrrell",
+                "nationality": "British"
+              },
+              "Q1": "1:24.401"
+            },
+            {
+              "number": "10",
+              "position": "17",
+              "Driver": {
+                "driverId": "diniz",
+                "url": "http://en.wikipedia.org/wiki/Pedro_Diniz",
+                "givenName": "Pedro",
+                "familyName": "Diniz",
+                "dateOfBirth": "1970-05-22",
+                "nationality": "Brazilian"
+              },
+              "Constructor": {
+                "constructorId": "ligier",
+                "url": "http://en.wikipedia.org/wiki/Ligier",
+                "name": "Ligier",
+                "nationality": "French"
+              },
+              "Q1": "1:24.468"
+            },
+            {
+              "number": "20",
+              "position": "18",
+              "Driver": {
+                "driverId": "lamy",
+                "url": "http://en.wikipedia.org/wiki/Pedro_Lamy",
+                "givenName": "Pedro",
+                "familyName": "Lamy",
+                "dateOfBirth": "1972-03-20",
+                "nationality": "Portuguese"
+              },
+              "Constructor": {
+                "constructorId": "minardi",
+                "url": "http://en.wikipedia.org/wiki/Minardi",
+                "name": "Minardi",
+                "nationality": "Italian"
+              },
+              "Q1": "1:25.274"
+            },
+            {
+              "number": "21",
+              "position": "19",
+              "Driver": {
+                "driverId": "fisichella",
+                "code": "FIS",
+                "url": "http://en.wikipedia.org/wiki/Giancarlo_Fisichella",
+                "givenName": "Giancarlo",
+                "familyName": "Fisichella",
+                "dateOfBirth": "1973-01-14",
+                "nationality": "Italian"
+              },
+              "Constructor": {
+                "constructorId": "minardi",
+                "url": "http://en.wikipedia.org/wiki/Minardi",
+                "name": "Minardi",
+                "nationality": "Italian"
+              },
+              "Q1": "1:25.531"
+            },
+            {
+              "number": "16",
+              "position": "20",
+              "Driver": {
+                "driverId": "rosset",
+                "url": "http://en.wikipedia.org/wiki/Ricardo_Rosset",
+                "givenName": "Ricardo",
+                "familyName": "Rosset",
+                "dateOfBirth": "1968-07-27",
+                "nationality": "Brazilian"
+              },
+              "Constructor": {
+                "constructorId": "footwork",
+                "url": "http://en.wikipedia.org/wiki/Footwork_Arrows",
+                "name": "Footwork",
+                "nationality": "British"
+              },
+              "Q1": "1:25.621"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

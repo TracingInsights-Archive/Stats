@@ -1,0 +1,104 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/1962/1/constructorstandings.json",
+    "limit": "30",
+    "offset": "0",
+    "total": "7",
+    "StandingsTable": {
+      "season": "1962",
+      "round": "1",
+      "StandingsLists": [
+        {
+          "season": "1962",
+          "round": "1",
+          "ConstructorStandings": [
+            {
+              "position": "1",
+              "positionText": "1",
+              "points": "9",
+              "wins": "1",
+              "Constructor": {
+                "constructorId": "brm",
+                "url": "http://en.wikipedia.org/wiki/BRM",
+                "name": "BRM",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "2",
+              "positionText": "2",
+              "points": "7",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "ferrari",
+                "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                "name": "Ferrari",
+                "nationality": "Italian"
+              }
+            },
+            {
+              "position": "3",
+              "positionText": "3",
+              "points": "6",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "lotus-climax",
+                "url": "http://en.wikipedia.org/wiki/Team_Lotus",
+                "name": "Lotus-Climax",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "4",
+              "positionText": "4",
+              "points": "2",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "cooper-climax",
+                "url": "http://en.wikipedia.org/wiki/Cooper_Car_Company",
+                "name": "Cooper-Climax",
+                "nationality": "British"
+              }
+            },
+            {
+              "position": "5",
+              "positionText": "5",
+              "points": "1",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "porsche",
+                "url": "http://en.wikipedia.org/wiki/Porsche_in_Formula_One",
+                "name": "Porsche",
+                "nationality": "German"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "emeryson",
+                "url": "http://en.wikipedia.org/wiki/Emeryson",
+                "name": "Emeryson",
+                "nationality": "British"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "lola",
+                "url": "http://en.wikipedia.org/wiki/MasterCard_Lola",
+                "name": "Lola",
+                "nationality": "British"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

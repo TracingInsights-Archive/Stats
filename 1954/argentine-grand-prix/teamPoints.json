@@ -1,0 +1,55 @@
+{
+  "MRData": {
+    "xmlns": "",
+    "series": "f1",
+    "url": "https://api.jolpi.ca/ergast/f1/1954/1/constructorstandings.json",
+    "limit": "30",
+    "offset": "0",
+    "total": "3",
+    "StandingsTable": {
+      "season": "1954",
+      "round": "1",
+      "StandingsLists": [
+        {
+          "season": "1954",
+          "round": "1",
+          "ConstructorStandings": [
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "1",
+              "Constructor": {
+                "constructorId": "maserati",
+                "url": "http://en.wikipedia.org/wiki/Maserati",
+                "name": "Maserati",
+                "nationality": "Italian"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "ferrari",
+                "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                "name": "Ferrari",
+                "nationality": "Italian"
+              }
+            },
+            {
+              "positionText": "-",
+              "points": "0",
+              "wins": "0",
+              "Constructor": {
+                "constructorId": "gordini",
+                "url": "http://en.wikipedia.org/wiki/Gordini",
+                "name": "Gordini",
+                "nationality": "French"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -207,13 +207,6 @@ class PitstopsFetcher:
 
         pitstops_file = race_folder / "pitstops.json"
 
-        # Skip if pitstops file already exists
-        if pitstops_file.exists():
-            logger.info(
-                f"Pitstops file already exists for {self.season} {race_name}, skipping"
-            )
-            return
-
         logger.info(
             f"Fetching pitstops for {self.season} {race_name} (Round {self.round_num})"
         )
@@ -225,13 +218,6 @@ class PitstopsFetcher:
             logger.info(f"Saved pitstops data to {pitstops_file}")
         else:
             logger.error(f"Failed to fetch pitstops for {self.season} {race_name}")
-
-
-def main():
-    # Configuration - modify these values as needed
-    base_dir = "."  # Current directory by default
-    season = 2025  # Season to fetch
-    round_num = 8  # Round number to fetch
 
 
 if __name__ == "__main__":

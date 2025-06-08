@@ -108,12 +108,6 @@ class RaceResultsFetcher:
         race_dir = season_dir / race_name
         os.makedirs(race_dir, exist_ok=True)
 
-        # Save race info
-        race_info_path = race_dir / "info.json"
-        self.save_json(
-            {"MRData": {"RaceTable": {"Races": [race_info]}}}, race_info_path
-        )
-
         # Get race results
         race_results = self.get_race_results(season, round_num)
 

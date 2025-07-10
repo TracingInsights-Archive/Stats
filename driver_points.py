@@ -108,6 +108,7 @@ def process_round(season, round_num):
 
 if __name__ == "__main__":
     logger.info("Starting driver standings fetch script for specific round")
-    process_round(2025, 8)
-    process_round(2025, 9)
+    process_round(2025, 10)
+    process_round(2025, 11)
+    process_round(2025, 12)
     logger.info("Completed driver standings fetch script")

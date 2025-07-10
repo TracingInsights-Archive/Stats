@@ -103,5 +103,6 @@ def main(year, round_num):
 
 
 if __name__ == "__main__":
-    main(2025, 8)
-    main(2025, 9)
+    main(2025, 10)
+    main(2025, 11)
+    main(2025, 12)

@@ -120,7 +120,7 @@ class RaceResultsFetcher:
 
 if __name__ == "__main__":
     fetcher = RaceResultsFetcher(base_dir=".")
-    fetcher.fetch_round(2025, 8)
-    fetcher.fetch_round(2025, 9)
-
+    fetcher.fetch_round(2025, 10)
+    fetcher.fetch_round(2025, 11)
+    fetcher.fetch_round(2025, 12)
     logger.info("Race results fetching completed")

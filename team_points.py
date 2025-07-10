@@ -150,5 +150,6 @@ class ConstructorStandingsFetcher:
 if __name__ == "__main__":
     logger.info("Starting data fetching for constructors...")
     fetcher = ConstructorStandingsFetcher(base_dir=".")
-    fetcher.fetch_standings_by_round(2025, 8)
-    fetcher.fetch_standings_by_round(2025, 9)
+    fetcher.fetch_standings_by_round(2025, 10)
+    fetcher.fetch_standings_by_round(2025, 11)
+    fetcher.fetch_standings_by_round(2025, 12)

@@ -221,9 +221,9 @@ class PitstopsFetcher:
 
 
 if __name__ == "__main__":
-    fetcher = PitstopsFetcher(base_dir=".", season=2025, round_num=8)
-
+    fetcher = PitstopsFetcher(base_dir=".", season=2025, round_num=10)
     fetcher.run()
-    fetcher = PitstopsFetcher(base_dir=".", season=2025, round_num=9)
-
+    fetcher = PitstopsFetcher(base_dir=".", season=2025, round_num=11)
+    fetcher.run()
+    fetcher = PitstopsFetcher(base_dir=".", season=2025, round_num=12)
     fetcher.run()

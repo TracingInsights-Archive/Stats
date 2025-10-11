@@ -129,12 +129,12 @@ class QualifyingResultsFetcher:
 
 if __name__ == "__main__":
     fetcher = QualifyingResultsFetcher(base_dir=".")
-    fetcher.fetch_round(2025, 13)
-    fetcher.fetch_round(2025, 14)
-    fetcher.fetch_round(2025, 15)
-    fetcher.fetch_round(2025, 16)
-    fetcher.fetch_round(2025, 17)
-    # fetcher.fetch_round(2025, 18)
+    # fetcher.fetch_round(2025, 13)
+    # fetcher.fetch_round(2025, 14)
+    # fetcher.fetch_round(2025, 15)
+    # fetcher.fetch_round(2025, 16)
+    # fetcher.fetch_round(2025, 17)
+    fetcher.fetch_round(2025, 18)
     # fetcher.fetch_round(2025, 19)
     # fetcher.fetch_round(2025, 20)
     # fetcher.fetch_round(2025, 21)

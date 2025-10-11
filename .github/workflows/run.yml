@@ -31,7 +31,7 @@ jobs:
           python pitstops.py
           python quali_results.py
           python results.py
-          # python sprint_results.py
+          python sprint_results.py
           python team_points.py
 
       - name: Commit and push if changes

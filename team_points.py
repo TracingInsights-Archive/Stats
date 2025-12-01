@@ -159,6 +159,6 @@ if __name__ == "__main__":
     # fetcher.fetch_standings_by_round(2025, 19)
     # fetcher.fetch_standings_by_round(2025, 20)
     # fetcher.fetch_standings_by_round(2025, 21)
-    fetcher.fetch_standings_by_round(2025, 22)
-    # fetcher.fetch_standings_by_round(2025, 23)
+    # fetcher.fetch_standings_by_round(2025, 22)
+    fetcher.fetch_standings_by_round(2025, 23)
     # fetcher.fetch_standings_by_round(2025, 24)

@@ -117,9 +117,9 @@ if __name__ == "__main__":
     # process_round(2025, 19)
     # process_round(2025, 20)
     # process_round(2025, 21)
-    # process_round(2025, 22)
+    process_round(2025, 22)
     process_round(2025, 23)
-    # process_round(2025, 24)
+    process_round(2025, 24)
 
 
 

@@ -169,7 +169,7 @@ class SprintResultsFetcher:
 if __name__ == "__main__":
     # Configuration - modify these values directly
     season = 2025  # The season to fetch
-    round_num = 21  # The round number to fetch
+    round_num = 23  # The round number to fetch
 
     # Base directory where season folders are located
     base_dir = "."

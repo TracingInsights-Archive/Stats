@@ -43,8 +43,8 @@ def main():
     base_dir = "."
 
     # Get list of seasons (you can adjust the range as needed)
-    start_year = 2025
-    end_year = 2025
+    start_year = 2026
+    end_year = 2026
 
     for year in range(start_year, end_year + 1):
         print(f"Processing year {year}...")

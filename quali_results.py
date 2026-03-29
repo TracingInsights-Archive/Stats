@@ -137,7 +137,7 @@ if __name__ == "__main__":
     # fetcher.fetch_round(2025, 18)
     # fetcher.fetch_round(2025, 19)
     # fetcher.fetch_round(2025, 20)
-    # fetcher.fetch_round(2025, 21)
-    fetcher.fetch_round(2026, 1)
+    fetcher.fetch_round(2026, 2)
+    fetcher.fetch_round(2026, 3)
 
     logger.info("Qualifying results fetching completed")

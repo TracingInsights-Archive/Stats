@@ -1,7 +1,7 @@
 name: Update Stats
 
 on:
-  schedule:
+  # schedule:
     # - cron: '59 23 26 10 *'  # Run every Monday at midnight UTC
   workflow_dispatch:  # Allow manual triggering
 

@@ -128,7 +128,7 @@ if __name__ == "__main__":
     # fetcher.fetch_round(2025, 18)
     # fetcher.fetch_round(2025, 19)
     # fetcher.fetch_round(2025, 20)
-    fetcher.fetch_round(2026, 6)
-    fetcher.fetch_round(2026, 7)
+    # fetcher.fetch_round(2026, 6)
+    fetcher.fetch_round(2026, 8)
 
     logger.info("Race results fetching completed")

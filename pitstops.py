@@ -239,6 +239,6 @@ if __name__ == "__main__":
     # fetcher.run()
     # fetcher = PitstopsFetcher(base_dir=".", season=2026, round_num=6)
     # fetcher.run()
-    fetcher = PitstopsFetcher(base_dir=".", season=2026, round_num=10)
+    fetcher = PitstopsFetcher(base_dir=".", season=2026, round_num=11)
     fetcher.run()
 
